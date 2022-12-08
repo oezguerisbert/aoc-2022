@@ -10,7 +10,7 @@ fn day1() {
 
     let contents = fs::read_to_string(file_path).expect("Should have been able to read the file");
 
-    // split the file into a vector of vector of numbers
+    // split the file into a group of vectors of numbers
     let numbers: Vec<Vec<usize>> = contents
         .split("\n\n") // split the file into groups
         .map(|group| {
