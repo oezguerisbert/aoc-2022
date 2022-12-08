@@ -15,3 +15,5 @@ Here are some tips for using Advent of Code to learn Rust:
 - Practice, practice, practice. The more you practice using Rust, the better you will become at solving problems and expressing your ideas in the language. Solving the Advent of Code puzzles is a great way to build your skills and become proficient in Rust.
 
 Good luck with your learning journey!
+
+*PS: this README has been created by ChatGPT*
